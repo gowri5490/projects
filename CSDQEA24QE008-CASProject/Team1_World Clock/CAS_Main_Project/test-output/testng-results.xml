@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-31T18:33:21 IST" name="Default suite" finished-at="2024-03-31T18:33:56 IST" duration-ms="34502">
+    <groups>
+    </groups>
+    <test started-at="2024-03-31T18:33:21 IST" name="Default test" finished-at="2024-03-31T18:33:56 IST" duration-ms="34502">
+      <class name="WorldClock.TestMain">
+        <test-method is-config="true" signature="openPage()[pri:0, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:08 IST" name="openPage" finished-at="2024-03-31T18:33:21 IST" duration-ms="12766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openPage -->
+        <test-method signature="userInfo()[pri:1, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:22 IST" name="userInfo" finished-at="2024-03-31T18:33:37 IST" duration-ms="14987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userInfo -->
+        <test-method signature="Test_WorldClock_Title()[pri:2, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:37 IST" name="Test_WorldClock_Title" finished-at="2024-03-31T18:33:38 IST" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_WorldClock_Title -->
+        <test-method signature="bangloreTimeZone()[pri:3, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:38 IST" name="bangloreTimeZone" finished-at="2024-03-31T18:33:38 IST" duration-ms="436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bangloreTimeZone -->
+        <test-method signature="bangaloreWatchTitle()[pri:4, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:38 IST" name="bangaloreWatchTitle" finished-at="2024-03-31T18:33:39 IST" duration-ms="475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bangaloreWatchTitle -->
+        <test-method signature="bangaloreTime()[pri:5, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:39 IST" name="bangaloreTime" finished-at="2024-03-31T18:33:39 IST" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bangaloreTime -->
+        <test-method signature="bangaloreDate()[pri:6, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:39 IST" name="bangaloreDate" finished-at="2024-03-31T18:33:40 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bangaloreDate -->
+        <test-method signature="londonWatchTitle()[pri:7, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:40 IST" name="londonWatchTitle" finished-at="2024-03-31T18:33:40 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- londonWatchTitle -->
+        <test-method signature="londonTime()[pri:8, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:40 IST" name="londonTime" finished-at="2024-03-31T18:33:40 IST" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- londonTime -->
+        <test-method signature="londonDate()[pri:9, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:40 IST" name="londonDate" finished-at="2024-03-31T18:33:41 IST" duration-ms="504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- londonDate -->
+        <test-method signature="londonTimeGap()[pri:10, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:41 IST" name="londonTimeGap" finished-at="2024-03-31T18:33:41 IST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- londonTimeGap -->
+        <test-method signature="NewYorkWatchTitle()[pri:11, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:41 IST" name="NewYorkWatchTitle" finished-at="2024-03-31T18:33:41 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewYorkWatchTitle -->
+        <test-method signature="NewYorkTime()[pri:12, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:41 IST" name="NewYorkTime" finished-at="2024-03-31T18:33:42 IST" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewYorkTime -->
+        <test-method signature="NewYorkDate()[pri:13, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:42 IST" name="NewYorkDate" finished-at="2024-03-31T18:33:42 IST" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewYorkDate -->
+        <test-method signature="NewYorkTimeGap()[pri:14, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:42 IST" name="NewYorkTimeGap" finished-at="2024-03-31T18:33:42 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewYorkTimeGap -->
+        <test-method signature="scroll()[pri:15, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:42 IST" name="scroll" finished-at="2024-03-31T18:33:43 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method signature="viewApps()[pri:16, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:43 IST" name="viewApps" finished-at="2024-03-31T18:33:48 IST" duration-ms="5541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewApps -->
+        <test-method signature="appsAlphabet()[pri:17, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:48 IST" name="appsAlphabet" finished-at="2024-03-31T18:33:50 IST" duration-ms="1595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appsAlphabet -->
+        <test-method signature="randomAlphabet()[pri:18, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:50 IST" name="randomAlphabet" finished-at="2024-03-31T18:33:56 IST" duration-ms="5856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- randomAlphabet -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:WorldClock.TestMain@62ddbd7e]" started-at="2024-03-31T18:33:56 IST" name="closeBrowser" finished-at="2024-03-31T18:34:08 IST" duration-ms="12037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- WorldClock.TestMain -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

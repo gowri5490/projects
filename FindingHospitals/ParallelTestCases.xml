@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <listeners>
+<listener class-name="utilities.ExtendReportManager"></listener>
+</listeners>
+  <test thread-count="5" name="ChromeTest" parallel="classes">
+  <parameter name="Browser" value="Chrome"></parameter>
+    <classes>
+   	  <class name="testCase.TS_01_ValidationOfHomePage"/>
+   	  <class name="testCase.TS_02_ValidationOfScheduling"/>                                                                 
+   	  <class name="testCase.TS_03_ValidationSergeriesPage"/>
+      <class name="testCase.TS_04_ValidationOfLabTest"/>
+      <class name="testCase.TS_05_ValidationOfSearchPage"/>       
+      <class name="testRunner.Runner"></class> 
+    </classes>
+  </test> <!-- Test -->
+  <test thread-count="5" name="EdgeTest" parallel="classes">
+  <parameter name="Browser" value="Edge"></parameter>
+    <classes>
+   	   <class name="testCase.TS_01_ValidationOfHomePage"/>
+   	  <class name="testCase.TS_02_ValidationOfScheduling"/>                                                                 
+   	  <class name="testCase.TS_03_ValidationSergeriesPage"/>
+      <class name="testCase.TS_04_ValidationOfLabTest"/>
+      <class name="testCase.TS_05_ValidationOfSearchPage"/>   
+      <class name="testRunner.Runner"></class> 
+    </classes>
+  </test>
+</suite> <!-- Suite -->

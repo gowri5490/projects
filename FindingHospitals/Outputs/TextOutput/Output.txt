@@ -1,0 +1,501 @@
+Test Starts==================================================================================
+runScenario is Started
+==================================================================================
+logoValidation is Started
+Logo is present.
+logoValidation is passed
+==================================================================================
+==================================================================================
+contactDetails is Started
+==================================================================================
+isHealthIsClickable is Started
+==================================================================================
+isLabTestclickable is Started
+Practo Care Contact Is :08045685554
+contactDetails is passed
+==================================================================================
+==================================================================================
+downloadValidation is Started
+Download option is present.
+downloadValidation is passed
+==================================================================================
+==================================================================================
+practoCareBenifits is Started
+Blood Tests | Book Diagnostic Tests from Home at Best Prices | Practo
+isLabTestclickable is passed
+==================================================================================
+Practo Care Benifits is visible :true
+Care Benefits:
+Expert surgeons
+Advanced Surgical Procedures
+Personal Care Assistants
+Financial Aid & Assistance
+practoCareBenifits is passed
+==================================================================================
+==================================================================================
+copyRightValidation is Started
+The Copyright Is There.
+copyRightValidation is passed
+==================================================================================
+Employee Health | Corporate Health & Wellness Plans | Practo
+isHealthIsClickable is passed
+==================================================================================
+==================================================================================
+topCitiesBlockAvailable is Started
+==================================================================================
+howItWorks is Started
+runScenario is passed
+==================================================================================
+==================================================================================
+runScenario is Started
+Top Cities Are:
+Bangalore
+Delhi
+Mumbai
+Chennai
+Hyderabad
+Kolkata
+Pune
+topCitiesBlockAvailable is passed
+==================================================================================
+working is visible :true
+How It Works:
+Connect with us. A dedicated Practo Care Assistant will guide you at every step
+Schedule a consultation with an expert Practo Care Doctor near you
+Choose one of our partner hospitals that meets your requirements
+Get complete assistance from Admission to Discharge
+howItWorks is passed
+==================================================================================
+==================================================================================
+loginValidation is Started
+The Log in Button Is Present
+loginValidation is passed
+==================================================================================
+==================================================================================
+withAllValidDetails is Started
+==================================================================================
+functionalityValidation is Started
+Functionalities are:
+==================================================================================
+allCitiesBlockAvailable is Started
+==================================================================================
+allSurgeries is Started
+Instant Video Consultation
+Find Doctors Near You
+Medicines
+Lab Tests
+Surgeries
+functionalityValidation is passed
+==================================================================================
+All Sergeries:
+Piles
+Hernia Treatment
+Kidney Stone
+Cataract
+Circumcision
+Lasik
+Varicose Veins
+Gallstone
+Anal Fistula
+Gynaecomastia
+Anal Fissure
+Lipoma Removal
+Sebaceous cyst
+Pilonidal Sinus
+Lump in Breast
+TURP
+Hydrocele
+Knee Replacement
+Hair Transplant
+allSurgeries is passed
+==================================================================================
+All Cities Are:
+Aurangabad
+Bangalore
+Bhubaneswar
+Chennai
+Cuttack
+Delhi
+Gurugram
+Hyderabad
+Indore
+Kolkata
+runScenario is passed
+==================================================================================
+==================================================================================
+runScenario is Started
+Mumbai
+Navi Mumbai
+Noida
+Pune
+Thane
+allCitiesBlockAvailable is passed
+==================================================================================
+Submit Button Is Clickable
+withAllValidDetails is passed
+==================================================================================
+==================================================================================
+dropDownVerification is Started
+==================================================================================
+allDepartment is Started
+==================================================================================
+withAllValidDetails is Started
+==================================================================================
+needHelpBlockValidation is Started
+All Departments: 
+General Surgery
+Proctology
+Ophthamology
+Urology
+Cosmetic
+Orthopedics
+Cosmetic
+allDepartment is passed
+==================================================================================
+Contact Number For Labtest Booking Help: +91 8045684087
+needHelpBlockValidation is passed
+==================================================================================
+Submit Button Not Clickable
+withAllValidDetails is passed
+==================================================================================
+Male Doctor
+40+ Patient Stories
+5+ Years of experience
+dropDownVerification is passed
+==================================================================================
+runScenario is passed
+==================================================================================
+==================================================================================
+runScenario is Started
+==================================================================================
+addToCartValidation is Started
+==================================================================================
+withAllValidDetails is Started
+==================================================================================
+professionVerification is Started
+Number Of Element Added To Cart: 1
+addToCartValidation is passed
+==================================================================================
+Submit Button Not Clickable
+withAllValidDetails is passed
+==================================================================================
+==================================================================================
+withAllValidDetails is Started
+Profession Matched :
+Dentist
+professionVerification is passed
+==================================================================================
+Submit Button Not Clickable
+withAllValidDetails is passed
+==================================================================================
+==================================================================================
+professionValidation is Started
+==================================================================================
+validationOfThankYouMessage is Started
+Doctors List: 
+
+Dr. Gayathri K
+Dentist
+11 years experience overall
+Medavakkam,Chennai  Glow Dental + 1 more
+FREE₹200Consultation fee at clinic
+100% 467 Patient Stories
+Dr. Udhayaraja
+Dentist
+44 years experience overall
+T Nagar,Chennai  Dr. Udhayarajas Dental & Orthodontic Centre + 1 more
+₹500 Consultation fee at clinic
+99% 206 Patient Stories
+Dr. Kirthiga M
+Dentist
+17 years experience overall
+Anna Nagar West,Chennai  Microsmiles + 1 more
+FREE₹300Consultation fee at clinic
+99% 65 Patient Stories
+Dr. D Arunachalam
+Dentist
+36 years experience overall
+Adyar,Chennai  Smiles India Family Dentistry + 1 more
+FREE₹500Consultation fee at clinic
+98% 245 Patient Stories
+Dr. V.S. Hariharan
+Dentist
+22 years experience overall
+Anna Nagar West,Chennai  Kidz N Teenz + 2 more
+FREE₹500Consultation fee at clinic
+99% 176 Patient Stories
+professionValidation is passed
+==================================================================================
+runScenario is passed
+==================================================================================
+==================================================================================
+userVerification is Started
+We couldn't find any doctors for you
+userVerification is passed
+==================================================================================
+==================================================================================
+verifyLocation is Started
+276 doctors available in Chennai
+verifyLocation is passed
+==================================================================================
+validationOfThankYouMessage is Failed
+==================================================================================
+ChromeTest is passed
+==================================================================================
+==================================================================================
+runScenario is Started
+==================================================================================
+contactDetails is Started
+==================================================================================
+logoValidation is Started
+Logo is present.
+logoValidation is passed
+==================================================================================
+Practo Care Contact Is :08045685554
+contactDetails is passed
+==================================================================================
+==================================================================================
+isHealthIsClickable is Started
+==================================================================================
+isLabTestclickable is Started
+Employee Health | Corporate Health & Wellness Plans | Practo
+isHealthIsClickable is passed
+==================================================================================
+Blood Tests | Book Diagnostic Tests from Home at Best Prices | Practo
+isLabTestclickable is passed
+==================================================================================
+==================================================================================
+downloadValidation is Started
+Download option is present.
+downloadValidation is passed
+==================================================================================
+==================================================================================
+practoCareBenifits is Started
+Practo Care Benifits is visible :true
+Care Benefits:
+Expert surgeons
+Advanced Surgical Procedures
+Personal Care Assistants
+Financial Aid & Assistance
+runScenario is passed
+==================================================================================
+==================================================================================
+runScenario is Started
+practoCareBenifits is passed
+==================================================================================
+==================================================================================
+withAllValidDetails is Started
+==================================================================================
+topCitiesBlockAvailable is Started
+==================================================================================
+copyRightValidation is Started
+The Copyright Is There.
+copyRightValidation is passed
+==================================================================================
+==================================================================================
+howItWorks is Started
+Top Cities Are:
+Bangalore
+Delhi
+Mumbai
+Chennai
+Hyderabad
+Kolkata
+Pune
+topCitiesBlockAvailable is passed
+==================================================================================
+working is visible :true
+How It Works:
+Connect with us. A dedicated Practo Care Assistant will guide you at every step
+Schedule a consultation with an expert Practo Care Doctor near you
+Choose one of our partner hospitals that meets your requirements
+Get complete assistance from Admission to Discharge
+howItWorks is passed
+==================================================================================
+Submit Button Is Clickable
+withAllValidDetails is passed
+==================================================================================
+==================================================================================
+loginValidation is Started
+The Log in Button Is Present
+loginValidation is passed
+==================================================================================
+==================================================================================
+allCitiesBlockAvailable is Started
+All Cities Are:
+Aurangabad
+Bangalore
+Bhubaneswar
+Chennai
+Cuttack
+Delhi
+Gurugram
+Hyderabad
+Indore
+Kolkata
+Mumbai
+Navi Mumbai
+Noida
+Pune
+Thane
+allCitiesBlockAvailable is passed
+==================================================================================
+==================================================================================
+allSurgeries is Started
+runScenario is passed
+==================================================================================
+==================================================================================
+runScenario is Started
+==================================================================================
+withAllValidDetails is Started
+All Sergeries:
+Piles
+Hernia Treatment
+Kidney Stone
+Cataract
+Circumcision
+Lasik
+Varicose Veins
+Gallstone
+Anal Fistula
+Gynaecomastia
+Anal Fissure
+Lipoma Removal
+Sebaceous cyst
+Pilonidal Sinus
+Lump in Breast
+TURP
+Hydrocele
+Knee Replacement
+Hair Transplant
+allSurgeries is passed
+==================================================================================
+==================================================================================
+functionalityValidation is Started
+Functionalities are:
+Instant Video Consultation
+Find Doctors Near You
+Medicines
+Lab Tests
+Surgeries
+functionalityValidation is passed
+==================================================================================
+==================================================================================
+needHelpBlockValidation is Started
+Submit Button Not Clickable
+withAllValidDetails is passed
+==================================================================================
+==================================================================================
+allDepartment is Started
+==================================================================================
+dropDownVerification is Started
+Contact Number For Labtest Booking Help: +91 8045684087
+needHelpBlockValidation is passed
+==================================================================================
+All Departments: 
+General Surgery
+Proctology
+Ophthamology
+Urology
+Cosmetic
+Orthopedics
+Cosmetic
+allDepartment is passed
+==================================================================================
+runScenario is passed
+==================================================================================
+==================================================================================
+runScenario is Started
+==================================================================================
+withAllValidDetails is Started
+==================================================================================
+addToCartValidation is Started
+Male Doctor
+40+ Patient Stories
+5+ Years of experience
+dropDownVerification is passed
+==================================================================================
+Submit Button Not Clickable
+withAllValidDetails is passed
+==================================================================================
+Number Of Element Added To Cart: 1
+addToCartValidation is passed
+==================================================================================
+==================================================================================
+professionVerification is Started
+==================================================================================
+withAllValidDetails is Started
+Submit Button Not Clickable
+withAllValidDetails is passed
+==================================================================================
+==================================================================================
+validationOfThankYouMessage is Started
+Profession Matched :
+Dentist
+professionVerification is passed
+==================================================================================
+==================================================================================
+professionValidation is Started
+Doctors List: 
+
+Dr. D Arunachalam
+Dentist
+36 years experience overall
+Adyar,Chennai  Smiles India Family Dentistry + 1 more
+FREE₹500Consultation fee at clinic
+98% 245 Patient Stories
+Dr. Roshan Rayen
+Dentist
+24 years experience overall
+Nungambakkam,Chennai  Rayen Dental Care Center + 1 more
+FREE₹500Consultation fee at clinic
+98% 219 Patient Stories
+Available Today
+Book FREE Clinic Visit
+No Booking Fee
+Dr. Deepak Raj
+Dentist
+15 years experience overall
+Kolathur,Chennai  Raj Implant and Orthodontic Center
+FREE₹200Consultation fee at clinic
+99% 120 Patient Stories
+Available Today
+Book FREE Clinic Visit
+No Booking Fee
+Dr. T. Sivasankari
+Dentist
+21 years experience overall
+Mogappair,Chennai  Harsini Dental Clinic
+FREE₹300Consultation fee at clinic
+88% 27 Patient Stories
+Available Today
+Book FREE Clinic Visit
+No Booking Fee
+Book Video Consult
+Dr. E. Sarath Chandar
+Dentist
+29 years experience overall
+Thiruvanmiyur,Chennai  Sarath Dental Clinic
+FREE₹400Consultation fee at clinic
+99% 227 Patient Stories
+Available Today
+Book FREE Clinic Visit
+No Booking Fee
+professionValidation is passed
+==================================================================================
+runScenario is Failed
+==================================================================================
+==================================================================================
+userVerification is Started
+We couldn't find any doctors for you
+userVerification is passed
+==================================================================================
+==================================================================================
+verifyLocation is Started
+validationOfThankYouMessage is Failed
+==================================================================================
+276 doctors available in Chennai
+verifyLocation is passed
+==================================================================================
+EdgeTest is passed
+==================================================================================

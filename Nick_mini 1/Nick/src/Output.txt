@@ -1,0 +1,37 @@
+Art
+104,095 Books
+Science Fiction
+18,883 Books
+Fantasy
+12,401 Books
+Biographies
+23,863 Books
+Recipes
+9,171 Books
+Romance
+19,774 Books
+Textbooks
+29,248 Books
+Children
+53,121 Books
+History
+2,055,384 Books
+Medicine
+50,432 Books
+Religion
+128,347 Books
+Mystery and Detective Stories
+15,746 Books
+Textbooks
+29,248 Books
+Children
+53,121 Books
+History
+2,055,384 Books
+Medicine
+50,432 Books
+Religion
+128,347 Books
+Mystery and Detective Stories
+15,746 Books
+Tamil books are more than 1000

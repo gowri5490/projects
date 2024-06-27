@@ -1,0 +1,468 @@
+16:10:22.648 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:10:25.612 [main] INFO  testCase.TS_01_ValidationOfHomePage - *******TS_01_ValidationOfHomePage has started*******
+16:10:25.612 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_01 LogoValidation has started*****
+16:10:25.661 [main] INFO  testCase.TS_01_ValidationOfHomePage - checking logo is present or not
+16:10:25.661 [main] INFO  testCase.TS_01_ValidationOfHomePage - logo is present
+16:10:25.860 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_01 LogoValidation has been closed*****
+16:10:31.877 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:10:35.002 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_02 Download Validation has started*****
+16:10:35.089 [main] INFO  testCase.TS_01_ValidationOfHomePage - checking download option is present or not
+16:10:35.090 [main] INFO  testCase.TS_01_ValidationOfHomePage - download option is present
+16:10:35.362 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_02 Download Validation has been closed*****
+16:10:41.914 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:10:45.210 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_03 CopyRight Validation has started*****
+16:10:45.272 [main] INFO  testCase.TS_01_ValidationOfHomePage - checking copyright details are present or not
+16:10:45.420 [main] INFO  testCase.TS_01_ValidationOfHomePage - copyright details present
+16:10:45.421 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_03 CopyRight Validation has been closed*****
+16:10:51.202 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:10:53.936 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_04 Login Validation has started*****
+16:10:53.967 [main] INFO  testCase.TS_01_ValidationOfHomePage - checking login button is present or not
+16:10:53.967 [main] INFO  testCase.TS_01_ValidationOfHomePage - login button is present
+16:10:54.131 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_04 Login Validation has been closed*****
+16:10:59.149 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:11:01.522 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_05 Functionality Validation has started*****
+16:11:01.522 [main] INFO  testCase.TS_01_ValidationOfHomePage - captured list of functionalities
+16:11:01.718 [main] INFO  testCase.TS_01_ValidationOfHomePage - displayed list of functionalities
+16:11:02.526 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_05 Functionality Validation has been closed*****
+16:11:02.526 [main] INFO  testCase.TS_01_ValidationOfHomePage - *******TS_01_ValidationOfHomePage has been closed*******
+16:11:07.574 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:11:09.395 [main] INFO  testCase.TS_02_ValidationOfScheduling - *******TS_02_ValidationOfScheduling has started*******
+16:11:09.396 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_06 Health Menu Validation has started*****
+16:11:09.521 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:11:16.033 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Health & Wellness plans
+16:11:16.044 [main] INFO  testCase.TS_02_ValidationOfScheduling - captured the title after clicking
+16:11:16.246 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_06 Health Menu Validation has been closed*****
+16:11:21.666 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:11:23.715 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has started*****
+16:11:23.786 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:11:31.221 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Health & Wellness plans
+16:11:31.566 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled form with common details
+16:11:31.638 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled phone number details
+16:11:31.726 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled email id details
+16:11:31.726 [main] INFO  testCase.TS_02_ValidationOfScheduling - checking whether submit button is enabled
+16:11:31.746 [main] INFO  testCase.TS_02_ValidationOfScheduling - submit button is enabled
+16:11:31.981 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has been closed*****
+16:11:37.818 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:11:40.024 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has started*****
+16:11:40.121 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:11:47.506 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Health & Wellness plans
+16:11:47.843 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled form with common details
+16:11:47.932 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled phone number details
+16:11:48.014 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled email id details
+16:11:48.014 [main] INFO  testCase.TS_02_ValidationOfScheduling - checking whether submit button is enabled
+16:11:48.034 [main] INFO  testCase.TS_02_ValidationOfScheduling - submit button is disabled
+16:11:48.271 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has been closed*****
+16:11:53.667 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:11:55.607 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has started*****
+16:11:55.699 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:12:02.236 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Health & Wellness plans
+16:12:02.549 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled form with common details
+16:12:02.626 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled phone number details
+16:12:02.719 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled email id details
+16:12:02.719 [main] INFO  testCase.TS_02_ValidationOfScheduling - checking whether submit button is enabled
+16:12:02.738 [main] INFO  testCase.TS_02_ValidationOfScheduling - submit button is disabled
+16:12:02.940 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has been closed*****
+16:12:08.652 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:12:11.091 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has started*****
+16:12:11.178 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:12:17.511 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Health & Wellness plans
+16:12:17.898 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled form with common details
+16:12:17.964 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled phone number details
+16:12:18.055 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled email id details
+16:12:18.055 [main] INFO  testCase.TS_02_ValidationOfScheduling - checking whether submit button is enabled
+16:12:18.074 [main] INFO  testCase.TS_02_ValidationOfScheduling - submit button is disabled
+16:12:18.297 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has been closed*****
+16:12:23.793 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:12:26.378 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_08 Thank You Message Validation has started*****
+16:12:26.476 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:12:34.185 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Health & Wellness plans
+16:12:34.496 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled form with common details
+16:12:34.589 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled phone number details
+16:12:34.687 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled email id details
+16:12:34.755 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on submit button
+16:13:04.805 [main] INFO  testCase.TS_02_ValidationOfScheduling - captured thank you message
+16:13:04.958 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_08 Thank You Message Validation has been closed*****
+16:13:12.122 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:13:14.210 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *******TS_03_ValidationSergeriesPage has started*******
+16:13:14.210 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_11 Print Contact Details has started*****
+16:13:15.876 [main] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:13:15.912 [main] INFO  testCase.TS_03_ValidationSergeriesPage - captured contact info
+16:13:15.912 [main] INFO  testCase.TS_03_ValidationSergeriesPage - displayed captured contact info
+16:13:16.263 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_11 Print Contact Details has been closed*****
+16:13:21.572 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:13:23.856 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_12 Print Practo Care Benefits Details has started*****
+16:13:25.994 [main] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:13:26.038 [main] INFO  testCase.TS_03_ValidationSergeriesPage - checking Practo Care Benefits details are present or not
+16:13:26.039 [main] INFO  testCase.TS_03_ValidationSergeriesPage - captured practo care benefits description
+16:13:26.240 [main] INFO  testCase.TS_03_ValidationSergeriesPage - displayed practo care benefits desciption
+16:13:26.435 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_12 Print Practo Care Benefits Details has been closed*****
+16:13:31.633 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:13:34.083 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_13 Print How It Works Details has started*****
+16:13:37.621 [main] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:13:37.670 [main] INFO  testCase.TS_03_ValidationSergeriesPage - checking How It Works available or not
+16:13:37.671 [main] INFO  testCase.TS_03_ValidationSergeriesPage - captured How It Works list
+16:13:37.815 [main] INFO  testCase.TS_03_ValidationSergeriesPage - displayed How It Works list
+16:13:37.943 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_13 Print How It Works Details has been closed*****
+16:13:43.167 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:13:46.253 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_14 Print All Surgeries list has started*****
+16:13:47.739 [main] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:13:47.750 [main] INFO  testCase.TS_03_ValidationSergeriesPage - captured All surgeries list
+16:13:48.399 [main] INFO  testCase.TS_03_ValidationSergeriesPage - displayed All surgeries list
+16:13:48.570 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_14 Print All Surgeries list has been closed*****
+16:13:53.785 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:13:56.777 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_15 Print All Departments list has started*****
+16:13:58.082 [main] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:13:58.094 [main] INFO  testCase.TS_03_ValidationSergeriesPage - captured All departments list
+16:13:58.345 [main] INFO  testCase.TS_03_ValidationSergeriesPage - displayed All departments list
+16:13:58.574 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_15 Print All Departments list has been closed*****
+16:13:58.574 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *******TS_03_ValidationSergeriesPage has been closed*******
+16:14:03.865 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****Browser Lanched*****
+16:14:06.388 [main] INFO  testCase.TS_04_ValidationOfLabTest - *******TS_04_ValidationOfLabTest has started*******
+16:14:06.388 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_16 Lab Test Validation has started*****
+16:14:09.622 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on 'Lab Tests' header
+16:14:09.831 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on a city
+16:14:09.861 [main] INFO  testCase.TS_04_ValidationOfLabTest - captured the title of the page after clicking city
+16:14:10.094 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_16 Lab Test Validation has been closed*****
+16:14:15.103 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****Browser Lanched*****
+16:14:17.356 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_17 Top Cities Validation has started*****
+16:14:20.782 [main] INFO  testCase.TS_04_ValidationOfLabTest - captured top cities list
+16:14:21.049 [main] INFO  testCase.TS_04_ValidationOfLabTest - displayed top cities list
+16:14:21.196 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_17 Top Cities Validation has been closed*****
+16:14:27.535 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****Browser Lanched*****
+16:14:30.138 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_18 All Cities Validation has started*****
+16:14:33.212 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on 'Lab Tests' header
+16:14:33.212 [main] INFO  testCase.TS_04_ValidationOfLabTest - captured all cities list
+16:14:33.961 [main] INFO  testCase.TS_04_ValidationOfLabTest - displayed all cities list
+16:14:34.094 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_18 All Cities Validation has been closed*****
+16:14:40.418 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****Browser Lanched*****
+16:14:42.764 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_19 Need Help Block Validation has started*****
+16:14:45.910 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on 'Lab Tests' header
+16:14:46.182 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on a city
+16:14:46.445 [main] INFO  testCase.TS_04_ValidationOfLabTest - captured contact information
+16:14:46.447 [main] INFO  testCase.TS_04_ValidationOfLabTest - displayed contact information
+16:14:46.850 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_19 Need Help Block Validation has been closed*****
+16:14:53.596 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****Browser Lanched*****
+16:14:55.908 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_20 Add to Cart Validation has started*****
+16:14:59.240 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on 'Lab Tests' header
+16:14:59.412 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on a random city
+16:15:01.450 [main] INFO  testCase.TS_04_ValidationOfLabTest - captured elements that can be added list
+16:15:05.534 [main] INFO  testCase.TS_04_ValidationOfLabTest - added elements to the cart
+16:15:05.570 [main] INFO  testCase.TS_04_ValidationOfLabTest - captured number of items in cart
+16:15:05.571 [main] INFO  testCase.TS_04_ValidationOfLabTest - displayed size of cart
+16:15:05.761 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_20 Add to Cart Validation has been closed*****
+16:15:05.761 [main] INFO  testCase.TS_04_ValidationOfLabTest - *******TS_04_ValidationOfLabTest has been closed*******
+16:15:12.407 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****Browser Lanched*****
+16:15:14.704 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *******TS_05_ValidationOfSearchPage has started*******
+16:15:14.705 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_21 Dropdown Validation has started*****
+16:15:19.750 [main] INFO  testCase.TS_05_ValidationOfSearchPage - entered occupation in searchbox
+16:15:20.078 [main] INFO  testCase.TS_05_ValidationOfSearchPage - gender selected
+16:15:25.181 [main] INFO  testCase.TS_05_ValidationOfSearchPage - patient story selected
+16:15:30.285 [main] INFO  testCase.TS_05_ValidationOfSearchPage - experience selected
+16:15:35.317 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured experience from the selection
+16:15:35.496 [main] INFO  testCase.TS_05_ValidationOfSearchPage - fees selected
+16:15:35.527 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured gender from the results
+16:15:35.556 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured patient stories from the results
+16:15:35.583 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured experience from the results
+16:15:35.583 [main] INFO  testCase.TS_05_ValidationOfSearchPage - displayed the captured values
+16:15:35.766 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_21 Dropdown Validation has been closed*****
+16:15:41.887 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****Browser Lanched*****
+16:15:44.965 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_22 Profession Verification has started*****
+16:15:49.980 [main] INFO  testCase.TS_05_ValidationOfSearchPage - entered occupation in searchbox
+16:15:50.216 [main] INFO  testCase.TS_05_ValidationOfSearchPage - gender selected
+16:15:55.329 [main] INFO  testCase.TS_05_ValidationOfSearchPage - patient story selected
+16:16:00.452 [main] INFO  testCase.TS_05_ValidationOfSearchPage - experience selected
+16:16:05.632 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured profession from the result list
+16:16:05.657 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured profession mathces the searched profession
+16:16:05.839 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_22 Profession Verification has been closed*****
+16:16:12.196 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****Browser Lanched*****
+16:16:14.538 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_23 Print Doctor Details has started*****
+16:16:21.131 [main] INFO  testCase.TS_05_ValidationOfSearchPage - entered occupation in searchbox
+16:16:21.131 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captures the doctors list from the results
+16:16:21.470 [main] INFO  testCase.TS_05_ValidationOfSearchPage - displayed the doctors list
+16:16:21.641 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_23 Print Doctor Details has been closed*****
+16:16:27.499 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****Browser Lanched*****
+16:16:30.278 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_24 Invalid Search has started*****
+16:16:34.560 [main] INFO  testCase.TS_05_ValidationOfSearchPage - entered invalid occupation in searchbox
+16:16:34.587 [main] INFO  testCase.TS_05_ValidationOfSearchPage - entered invalid occupation in searchbox
+16:16:34.715 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_24 Invalid Search has been closed*****
+16:16:40.459 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****Browser Lanched*****
+16:16:42.798 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_25 Location Validation has started*****
+16:16:49.380 [main] INFO  testCase.TS_05_ValidationOfSearchPage - entered occupation in searchbox
+16:16:50.423 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured the location from the search results
+16:16:50.650 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_25 Location Validation has been closed*****
+16:16:50.650 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *******TS_05_ValidationOfSearchPage has been closed*******
+16:20:11.176 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:20:14.808 [main] INFO  testCase.TS_01_ValidationOfHomePage - *******TS_01_ValidationOfHomePage has started*******
+16:20:14.808 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_01 LogoValidation has started*****
+16:20:14.839 [main] INFO  testCase.TS_01_ValidationOfHomePage - checking logo is present or not
+16:20:14.839 [main] INFO  testCase.TS_01_ValidationOfHomePage - logo is present
+16:20:15.043 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_01 LogoValidation has been closed*****
+16:20:21.962 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:20:24.729 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_02 Download Validation has started*****
+16:20:24.809 [main] INFO  testCase.TS_01_ValidationOfHomePage - checking download option is present or not
+16:20:24.809 [main] INFO  testCase.TS_01_ValidationOfHomePage - download option is present
+16:20:25.145 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_02 Download Validation has been closed*****
+16:20:31.974 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:20:34.313 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_03 CopyRight Validation has started*****
+16:20:34.372 [main] INFO  testCase.TS_01_ValidationOfHomePage - checking copyright details are present or not
+16:20:34.528 [main] INFO  testCase.TS_01_ValidationOfHomePage - copyright details present
+16:20:34.529 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_03 CopyRight Validation has been closed*****
+16:20:40.506 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:20:45.372 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_04 Login Validation has started*****
+16:20:45.405 [main] INFO  testCase.TS_01_ValidationOfHomePage - checking login button is present or not
+16:20:45.405 [main] INFO  testCase.TS_01_ValidationOfHomePage - login button is present
+16:20:45.610 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_04 Login Validation has been closed*****
+16:20:52.439 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:20:56.176 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_05 Functionality Validation has started*****
+16:20:56.177 [main] INFO  testCase.TS_01_ValidationOfHomePage - captured list of functionalities
+16:20:56.430 [main] INFO  testCase.TS_01_ValidationOfHomePage - displayed list of functionalities
+16:20:56.697 [main] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_05 Functionality Validation has been closed*****
+16:20:56.697 [main] INFO  testCase.TS_01_ValidationOfHomePage - *******TS_01_ValidationOfHomePage has been closed*******
+16:21:03.733 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:21:07.025 [main] INFO  testCase.TS_02_ValidationOfScheduling - *******TS_02_ValidationOfScheduling has started*******
+16:21:07.025 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_06 Health Menu Validation has started*****
+16:21:07.086 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:21:14.579 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Health & Wellness plans
+16:21:14.594 [main] INFO  testCase.TS_02_ValidationOfScheduling - captured the title after clicking
+16:21:14.794 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_06 Health Menu Validation has been closed*****
+16:21:21.064 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:21:25.799 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has started*****
+16:21:25.858 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:21:34.838 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Health & Wellness plans
+16:21:35.292 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled form with common details
+16:21:35.419 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled phone number details
+16:21:35.534 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled email id details
+16:21:35.534 [main] INFO  testCase.TS_02_ValidationOfScheduling - checking whether submit button is enabled
+16:21:35.559 [main] INFO  testCase.TS_02_ValidationOfScheduling - submit button is enabled
+16:21:35.922 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has been closed*****
+16:21:42.332 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:21:45.323 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has started*****
+16:21:45.410 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:21:52.427 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Health & Wellness plans
+16:21:52.806 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled form with common details
+16:21:52.884 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled phone number details
+16:21:52.974 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled email id details
+16:21:52.975 [main] INFO  testCase.TS_02_ValidationOfScheduling - checking whether submit button is enabled
+16:21:52.991 [main] INFO  testCase.TS_02_ValidationOfScheduling - submit button is disabled
+16:21:53.231 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has been closed*****
+16:22:01.148 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:22:04.014 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has started*****
+16:22:04.111 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:22:13.202 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Health & Wellness plans
+16:22:13.500 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled form with common details
+16:22:13.580 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled phone number details
+16:22:13.674 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled email id details
+16:22:13.674 [main] INFO  testCase.TS_02_ValidationOfScheduling - checking whether submit button is enabled
+16:22:13.698 [main] INFO  testCase.TS_02_ValidationOfScheduling - submit button is disabled
+16:22:13.941 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has been closed*****
+16:22:21.118 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:22:24.319 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has started*****
+16:22:24.396 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:22:33.714 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Health & Wellness plans
+16:22:34.188 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled form with common details
+16:22:34.275 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled phone number details
+16:22:34.380 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled email id details
+16:22:34.380 [main] INFO  testCase.TS_02_ValidationOfScheduling - checking whether submit button is enabled
+16:22:34.401 [main] INFO  testCase.TS_02_ValidationOfScheduling - submit button is disabled
+16:22:34.630 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has been closed*****
+16:22:40.593 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:22:43.953 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_08 Thank You Message Validation has started*****
+16:22:44.050 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:22:52.479 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Health & Wellness plans
+16:22:52.838 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled form with common details
+16:22:52.941 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled phone number details
+16:22:53.034 [main] INFO  testCase.TS_02_ValidationOfScheduling - filled email id details
+16:22:53.090 [main] INFO  testCase.TS_02_ValidationOfScheduling - clicked on submit button
+16:23:23.128 [main] INFO  testCase.TS_02_ValidationOfScheduling - captured thank you message
+16:23:23.295 [main] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_08 Thank You Message Validation has been closed*****
+16:23:31.256 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:23:33.912 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *******TS_03_ValidationSergeriesPage has started*******
+16:23:33.912 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_11 Print Contact Details has started*****
+16:23:35.270 [main] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:23:35.298 [main] INFO  testCase.TS_03_ValidationSergeriesPage - captured contact info
+16:23:35.299 [main] INFO  testCase.TS_03_ValidationSergeriesPage - displayed captured contact info
+16:23:35.585 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_11 Print Contact Details has been closed*****
+16:23:42.034 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:23:44.487 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_12 Print Practo Care Benefits Details has started*****
+16:23:45.783 [main] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:23:45.840 [main] INFO  testCase.TS_03_ValidationSergeriesPage - checking Practo Care Benefits details are present or not
+16:23:45.840 [main] INFO  testCase.TS_03_ValidationSergeriesPage - captured practo care benefits description
+16:23:45.984 [main] INFO  testCase.TS_03_ValidationSergeriesPage - displayed practo care benefits desciption
+16:23:46.127 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_12 Print Practo Care Benefits Details has been closed*****
+16:23:53.079 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:23:55.853 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_13 Print How It Works Details has started*****
+16:23:57.309 [main] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:23:57.345 [main] INFO  testCase.TS_03_ValidationSergeriesPage - checking How It Works available or not
+16:23:57.347 [main] INFO  testCase.TS_03_ValidationSergeriesPage - captured How It Works list
+16:23:57.517 [main] INFO  testCase.TS_03_ValidationSergeriesPage - displayed How It Works list
+16:23:57.662 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_13 Print How It Works Details has been closed*****
+16:24:03.516 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:24:07.016 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_14 Print All Surgeries list has started*****
+16:24:08.804 [main] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:24:08.814 [main] INFO  testCase.TS_03_ValidationSergeriesPage - captured All surgeries list
+16:24:09.594 [main] INFO  testCase.TS_03_ValidationSergeriesPage - displayed All surgeries list
+16:24:09.775 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_14 Print All Surgeries list has been closed*****
+16:24:16.108 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:24:19.151 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_15 Print All Departments list has started*****
+16:24:20.895 [main] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:24:20.905 [main] INFO  testCase.TS_03_ValidationSergeriesPage - captured All departments list
+16:24:21.156 [main] INFO  testCase.TS_03_ValidationSergeriesPage - displayed All departments list
+16:24:21.342 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_15 Print All Departments list has been closed*****
+16:24:21.342 [main] INFO  testCase.TS_03_ValidationSergeriesPage - *******TS_03_ValidationSergeriesPage has been closed*******
+16:24:27.267 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****Browser Lanched*****
+16:24:29.718 [main] INFO  testCase.TS_04_ValidationOfLabTest - *******TS_04_ValidationOfLabTest has started*******
+16:24:29.718 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_16 Lab Test Validation has started*****
+16:24:32.772 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on 'Lab Tests' header
+16:24:32.967 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on a city
+16:24:32.978 [main] INFO  testCase.TS_04_ValidationOfLabTest - captured the title of the page after clicking city
+16:24:33.212 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_16 Lab Test Validation has been closed*****
+16:24:39.346 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****Browser Lanched*****
+16:24:42.879 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_17 Top Cities Validation has started*****
+16:24:46.680 [main] INFO  testCase.TS_04_ValidationOfLabTest - captured top cities list
+16:24:46.964 [main] INFO  testCase.TS_04_ValidationOfLabTest - displayed top cities list
+16:24:47.082 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_17 Top Cities Validation has been closed*****
+16:24:54.275 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****Browser Lanched*****
+16:24:57.697 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_18 All Cities Validation has started*****
+16:25:02.393 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on 'Lab Tests' header
+16:25:02.394 [main] INFO  testCase.TS_04_ValidationOfLabTest - captured all cities list
+16:25:03.266 [main] INFO  testCase.TS_04_ValidationOfLabTest - displayed all cities list
+16:25:03.449 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_18 All Cities Validation has been closed*****
+16:25:10.323 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****Browser Lanched*****
+16:25:15.943 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_19 Need Help Block Validation has started*****
+16:25:22.212 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on 'Lab Tests' header
+16:25:22.367 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on a city
+16:25:22.391 [main] INFO  testCase.TS_04_ValidationOfLabTest - captured contact information
+16:25:22.392 [main] INFO  testCase.TS_04_ValidationOfLabTest - displayed contact information
+16:25:22.557 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_19 Need Help Block Validation has been closed*****
+16:25:28.665 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****Browser Lanched*****
+16:25:33.481 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_20 Add to Cart Validation has started*****
+16:25:38.154 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on 'Lab Tests' header
+16:25:38.345 [main] INFO  testCase.TS_04_ValidationOfLabTest - clicked on a random city
+16:25:40.391 [main] INFO  testCase.TS_04_ValidationOfLabTest - captured elements that can be added list
+16:25:44.479 [main] INFO  testCase.TS_04_ValidationOfLabTest - added elements to the cart
+16:25:44.517 [main] INFO  testCase.TS_04_ValidationOfLabTest - captured number of items in cart
+16:25:44.519 [main] INFO  testCase.TS_04_ValidationOfLabTest - displayed size of cart
+16:25:44.746 [main] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_20 Add to Cart Validation has been closed*****
+16:25:44.746 [main] INFO  testCase.TS_04_ValidationOfLabTest - *******TS_04_ValidationOfLabTest has been closed*******
+16:25:52.644 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****Browser Lanched*****
+16:25:56.046 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *******TS_05_ValidationOfSearchPage has started*******
+16:25:56.046 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_21 Dropdown Validation has started*****
+16:26:07.392 [main] INFO  testCase.TS_05_ValidationOfSearchPage - entered occupation in searchbox
+16:26:07.564 [main] INFO  testCase.TS_05_ValidationOfSearchPage - gender selected
+16:26:12.670 [main] INFO  testCase.TS_05_ValidationOfSearchPage - patient story selected
+16:26:17.781 [main] INFO  testCase.TS_05_ValidationOfSearchPage - experience selected
+16:26:22.821 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured experience from the selection
+16:26:22.994 [main] INFO  testCase.TS_05_ValidationOfSearchPage - fees selected
+16:26:23.019 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured gender from the results
+16:26:23.047 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured patient stories from the results
+16:26:23.072 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured experience from the results
+16:26:23.072 [main] INFO  testCase.TS_05_ValidationOfSearchPage - displayed the captured values
+16:26:23.255 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_21 Dropdown Validation has been closed*****
+16:26:31.566 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****Browser Lanched*****
+16:26:35.191 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_22 Profession Verification has started*****
+16:26:41.677 [main] INFO  testCase.TS_05_ValidationOfSearchPage - entered occupation in searchbox
+16:26:41.921 [main] INFO  testCase.TS_05_ValidationOfSearchPage - gender selected
+16:26:47.029 [main] INFO  testCase.TS_05_ValidationOfSearchPage - patient story selected
+16:26:52.128 [main] INFO  testCase.TS_05_ValidationOfSearchPage - experience selected
+16:26:57.309 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured profession from the result list
+16:26:57.332 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured profession mathces the searched profession
+16:26:57.539 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_22 Profession Verification has been closed*****
+16:27:05.519 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****Browser Lanched*****
+16:27:08.618 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_23 Print Doctor Details has started*****
+16:27:14.259 [main] INFO  testCase.TS_05_ValidationOfSearchPage - entered occupation in searchbox
+16:27:14.259 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captures the doctors list from the results
+16:27:14.597 [main] INFO  testCase.TS_05_ValidationOfSearchPage - displayed the doctors list
+16:27:14.792 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_23 Print Doctor Details has been closed*****
+16:27:21.142 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****Browser Lanched*****
+16:27:24.459 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_24 Invalid Search has started*****
+16:27:29.370 [main] INFO  testCase.TS_05_ValidationOfSearchPage - entered invalid occupation in searchbox
+16:27:29.397 [main] INFO  testCase.TS_05_ValidationOfSearchPage - entered invalid occupation in searchbox
+16:27:29.553 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_24 Invalid Search has been closed*****
+16:27:37.628 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****Browser Lanched*****
+16:27:40.826 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_25 Location Validation has started*****
+16:27:47.656 [main] INFO  testCase.TS_05_ValidationOfSearchPage - entered occupation in searchbox
+16:27:48.699 [main] INFO  testCase.TS_05_ValidationOfSearchPage - captured the location from the search results
+16:27:48.910 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *****TC_25 Location Validation has been closed*****
+16:27:48.910 [main] INFO  testCase.TS_05_ValidationOfSearchPage - *******TS_05_ValidationOfSearchPage has been closed*******
+16:29:39.615 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:29:39.636 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:29:40.434 [TestNG-test-ChromeTest-3] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:29:42.069 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - *****Browser Lanched*****
+16:29:43.777 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *******TS_01_ValidationOfHomePage has started*******
+16:29:43.777 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_01 LogoValidation has started*****
+16:29:43.813 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - checking logo is present or not
+16:29:43.813 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - logo is present
+16:29:44.059 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_01 LogoValidation has been closed*****
+16:29:44.719 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - *******TS_03_ValidationSergeriesPage has started*******
+16:29:44.719 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_11 Print Contact Details has started*****
+16:29:48.862 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:29:49.122 [TestNG-test-ChromeTest-3] INFO  testCase.TS_02_ValidationOfScheduling - *******TS_02_ValidationOfScheduling has started*******
+16:29:49.122 [TestNG-test-ChromeTest-3] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_06 Health Menu Validation has started*****
+16:29:49.206 [TestNG-test-ChromeTest-3] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:29:50.989 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - *******TS_04_ValidationOfLabTest has started*******
+16:29:50.991 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_16 Lab Test Validation has started*****
+16:29:50.999 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:29:51.049 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - captured contact info
+16:29:51.050 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - displayed captured contact info
+16:29:51.429 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_11 Print Contact Details has been closed*****
+16:29:56.765 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:29:57.276 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_02 Download Validation has started*****
+16:29:57.327 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - checking download option is present or not
+16:29:57.327 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - download option is present
+16:29:57.468 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_02 Download Validation has been closed*****
+16:30:03.494 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_12 Print Practo Care Benefits Details has started*****
+16:30:03.528 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:30:06.938 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - clicked on 'Lab Tests' header
+16:30:07.163 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - clicked on a city
+16:30:07.177 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - captured the title of the page after clicking city
+16:30:07.495 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_16 Lab Test Validation has been closed*****
+16:30:08.282 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:30:08.341 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - checking Practo Care Benefits details are present or not
+16:30:08.342 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - captured practo care benefits description
+16:30:08.532 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - displayed practo care benefits desciption
+16:30:08.785 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_12 Print Practo Care Benefits Details has been closed*****
+16:30:10.037 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_03 CopyRight Validation has started*****
+16:30:10.105 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - checking copyright details are present or not
+16:30:11.553 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - copyright details present
+16:30:11.554 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_03 CopyRight Validation has been closed*****
+16:30:13.489 [TestNG-test-ChromeTest-3] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Health & Wellness plans
+16:30:13.497 [TestNG-test-ChromeTest-3] INFO  testCase.TS_02_ValidationOfScheduling - captured the title after clicking
+16:30:14.097 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - *****Browser Lanched*****
+16:30:15.549 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:30:16.055 [TestNG-test-ChromeTest-3] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_06 Health Menu Validation has been closed*****
+16:30:16.903 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_17 Top Cities Validation has started*****
+16:30:18.712 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_13 Print How It Works Details has started*****
+16:30:18.771 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:30:21.262 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - captured top cities list
+16:30:21.811 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - displayed top cities list
+16:30:22.024 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_17 Top Cities Validation has been closed*****
+16:30:22.379 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:30:22.428 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - checking How It Works available or not
+16:30:22.430 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - captured How It Works list
+16:30:22.647 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - displayed How It Works list
+16:30:22.828 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_13 Print How It Works Details has been closed*****
+16:30:24.815 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_04 Login Validation has started*****
+16:30:24.852 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - checking login button is present or not
+16:30:24.852 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - login button is present
+16:30:26.151 [TestNG-test-ChromeTest-3] INFO  testCase.TS_02_ValidationOfScheduling - *****Browser Lanched*****
+16:30:26.940 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_04 Login Validation has been closed*****
+16:30:29.407 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - *****Browser Lanched*****
+16:30:29.466 [TestNG-test-ChromeTest-3] INFO  testCase.TS_02_ValidationOfScheduling - *****TC_07 Form Validation has started*****
+16:30:29.592 [TestNG-test-ChromeTest-3] INFO  testCase.TS_02_ValidationOfScheduling - clicked on Corporates
+16:30:30.634 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - *****Browser Lanched*****
+16:30:33.831 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****Browser Lanched*****
+16:30:35.175 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_05 Functionality Validation has started*****
+16:30:35.176 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - captured list of functionalities
+16:30:37.224 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - *****TC_18 All Cities Validation has started*****
+16:30:37.859 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_14 Print All Surgeries list has started*****
+16:30:39.277 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - displayed list of functionalities
+16:30:39.628 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *****TC_05 Functionality Validation has been closed*****
+16:30:39.628 [TestNG-test-ChromeTest-2] INFO  testCase.TS_01_ValidationOfHomePage - *******TS_01_ValidationOfHomePage has been closed*******
+16:30:42.778 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - clicked on 'Surgeries' header
+16:30:42.792 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - captured All surgeries list
+16:30:43.597 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - displayed All surgeries list
+16:30:43.811 [TestNG-test-ChromeTest-4] INFO  testCase.TS_03_ValidationSergeriesPage - *****TC_14 Print All Surgeries list has been closed*****
+16:30:45.096 [TestNG-test-ChromeTest-2] INFO  testCase.TS_05_ValidationOfSearchPage - *****Browser Lanched*****
+16:30:46.667 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - clicked on 'Lab Tests' header
+16:30:46.669 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - captured all cities list
+16:30:47.555 [TestNG-test-ChromeTest-5] INFO  testCase.TS_04_ValidationOfLabTest - displayed all cities list
